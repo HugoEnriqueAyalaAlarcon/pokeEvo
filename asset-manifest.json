@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokeEvo/static/css/main.74664e31.css",
+    "main.js": "/pokeEvo/static/js/main.87210db2.js",
+    "index.html": "/pokeEvo/index.html",
+    "main.74664e31.css.map": "/pokeEvo/static/css/main.74664e31.css.map",
+    "main.87210db2.js.map": "/pokeEvo/static/js/main.87210db2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74664e31.css",
+    "static/js/main.87210db2.js"
+  ]
+}
