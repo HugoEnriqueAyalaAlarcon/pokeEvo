@@ -1,0 +1,39 @@
+.card{
+    border: 1px solid red;
+    width: 200px;
+    height: 250px;
+    border-radius: 16px;
+    background-color: rgb(3, 101, 248);
+    box-shadow: 3px 3px 10px;
+    padding: 48px 12px 12px;
+    position: relative;
+    overflow: hidden;
+}
+
+.card__name{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 140px;
+    background: rgb(174, 0, 0);
+    color: aliceblue;
+    padding: 6px 12 px;
+}
+.card__circle{
+    position: absolute;
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    top: 56px;
+    left: 24px;
+    border-radius: 50%;
+}
+
+.card__img{
+    position: absolute;
+    z-index: 1;
+    width: 150px;
+    height: 150px;
+    top: 75px;
+    left: 35px;
+}
