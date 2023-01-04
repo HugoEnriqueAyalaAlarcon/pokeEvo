@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pokeEvo/static/css/main.6f18deee.css",
+    "main.css": "/pokeEvo/static/css/main.19fec888.css",
     "main.js": "/pokeEvo/static/js/main.1eebfc88.js",
     "index.html": "/pokeEvo/index.html",
-    "main.6f18deee.css.map": "/pokeEvo/static/css/main.6f18deee.css.map",
+    "main.19fec888.css.map": "/pokeEvo/static/css/main.19fec888.css.map",
     "main.1eebfc88.js.map": "/pokeEvo/static/js/main.1eebfc88.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f18deee.css",
+    "static/css/main.19fec888.css",
     "static/js/main.1eebfc88.js"
   ]
 }
